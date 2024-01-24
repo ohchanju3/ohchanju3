@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi Everyone 👋
 
-<a href="https://velog.io/@ohchanju3/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=20C997"/></a>
+<a href="https://velog.io/@ohchanju3/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-EFEEEE?style=for-the-badge&logo=Velog&logoColor=20C997"/></a>
+<a href="[https://velog.io/@ohchanju3/posts](https://ohchanju-portfolio.notion.site/5bbfa69a3be14df289896b9fdd96842b?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ohchanju3@naver.com-FFFED7?style=for-the-badge&logo=Gmail&logoColor=black"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldweek3&show_icons=true&theme=shadow_blue)
+
 
 <!--
 **coldweek3/coldweek3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
