@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@ohchanju3/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=20C997"/></a>
+
 <!--
 **coldweek3/coldweek3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
