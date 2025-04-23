@@ -1,10 +1,9 @@
-### Hi Everyone 👋
+### 안녕하세요. FE를 주로 개발하고 있는 오찬주입니다 :)
 
 <a href="https://velog.io/@ohchanju3/series" target="_blank"><img src="https://img.shields.io/badge/Velog-EFEEEE?style=for-the-badge&logo=Velog&logoColor=20C997"/></a>
 <a href="https://ohchanju-portfolio.notion.site/ohchanju-portfolio/5bbfa69a3be14df289896b9fdd96842b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="mailto:ohchanju3@naver.com"><img src="https://img.shields.io/badge/ohchanju3@naver.com-FFFED7?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldweek3&show_icons=true&theme=shadow_blue)
 
 ## 📚 Skills
 <div>
