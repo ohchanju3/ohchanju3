@@ -4,6 +4,8 @@
 <a href="https://ohchanju-portfolio.notion.site/ohchanju-portfolio/5bbfa69a3be14df289896b9fdd96842b" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="mailto:ohchanju3@naver.com"><img src="https://img.shields.io/badge/ohchanju3@naver.com-FFFED7?style=for-the-badge&logo=Gmail&logoColor=black"/></a>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohchanju3)
+
 
 ## 📚 Skills
 <div>
@@ -14,7 +16,6 @@
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     </div>
-
 </div>
 
 
