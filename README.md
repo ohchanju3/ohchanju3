@@ -3,7 +3,7 @@
 AI 기반 문제 해결 경험을 서비스로 연결하는 프론트엔드 개발자
 
 동국대학교 정치외교학 / 소프트웨어AI  
-USC Viterbi School of Engineering (AI & Data Science) 수료  
+USC Viterbi School of Engineering (AI & Data Science) 해외 파견 과정 수료 
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@ohchanju3/posts)
 [![Email](https://img.shields.io/badge/ohchanju3@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ohchanju3@naver.com)
