@@ -27,7 +27,7 @@
 | [LINENOW-CLIENT](https://github.com/ohchanju3/LINENOW-CLIENT) | 대학 축제 실시간 대기열 관리 서비스 | **1,500+ 사용자 / 실제 운영 2회** |
 | [Classmate](https://github.com/ohchanju3/2025-2-SCS4031-DevCode-S1) | 시각장애 학우 학습 보조 서비스 (TTS, OCR) | **웹 접근성 + AI 기능 구현** |
 | [Dasiro-Frontend](https://github.com/ohchanju3/Dasiro-Frontend) | 싱크홀 위험도 시각화 및 안전 경로 서비스 | **지도 기반 데이터 시각화** |
-| [DoLog-FE](https://github.com/ohchanju3/DoLog-FE) | 졸업 전시 큐레이팅 플랫폼 | **Next.js + SpringBoot** |
+| [DoLog](https://github.com/DoLog-Team) | 졸업 전시 큐레이팅 플랫폼 | **Next.js + SpringBoot** |
 
 ---
 
