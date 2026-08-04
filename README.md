@@ -1,8 +1,6 @@
 ### 오찬주 SW Engineer
 
-안녕하세요. AI 기반 문제 해결 경험을 서비스로 연결하는 SW개발자입니다.
-
-동국대학교 정치외교학 / 소프트웨어AI  
+안녕하세요. AI 기반 문제 해결 경험을 서비스로 연결하는 SW개발자입니다.  
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@ohchanju3/posts)
 [![Email](https://img.shields.io/badge/ohchanju3@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ohchanju3@naver.com)
@@ -24,7 +22,7 @@
 
 | Project | Description | Etc |
 |--------|-------------|--------|
-| [LINENOW-CLIENT](https://github.com/ohchanju3/LINENOW-CLIENT) | 대학 축제 실시간 대기열 관리 서비스 | **1,500+ 사용자 / 실제 운영 2회** |
+| [LINENOW-CLIENT](https://github.com/ohchanju3/LINENOW-CLIENT) | 대학 축제 실시간 대기열 관리 서비스 | **1,500+ 사용자 / 실제 운영** |
 | [Classmate](https://github.com/ohchanju3/2025-2-SCS4031-DevCode-S1) | 시각장애 학우 학습 보조 서비스 (TTS, OCR) | **웹 접근성 + AI 기능 구현** |
 | [Dasiro-Frontend](https://github.com/ohchanju3/Dasiro-Frontend) | 싱크홀 위험도 시각화 및 안전 경로 서비스 | **지도 기반 데이터 시각화** |
 | [DoLog](https://github.com/DoLog-Team) | 졸업 전시 큐레이팅 플랫폼 | **Next.js + SpringBoot** |
