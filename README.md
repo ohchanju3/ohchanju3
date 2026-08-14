@@ -9,7 +9,7 @@
 
 #### 🧩 Skills
 
-**Core** | React, TypeScript, Next.js  
+**Core** | React, TypeScript, Next.js, SpringBoot  
 **State Management** | TanStack React Query, Jotai, Zustand, Context API  
 **UI / Design System** | Storybook, Chromatic, Emotion, styled-components  
 **Realtime** | WebSocket  
@@ -31,14 +31,14 @@
 
 #### 🏆 Awards
 
-- 2025 외교 공공데이터 활용 대회(외교부) — 한아프리카재단 이사장상
-- 2025 Tech for all: 기술로 잇는 사회혁신 공모전(재단법인 행복나눔재단)  - 대상
-- 2025 겨울 종합설계 결과 발표회(동국대 SW교육원) — 최우수상
+- 2025 외교 공공데이터 활용 대회(외교부) - 한아프리카재단 이사장상
+- 2025 Tech for all: 기술로 잇는 사회혁신 공모전(재단법인 행복나눔재단) - 대상
+- 2025 겨울 종합설계 결과 발표회(동국대 SW교육원) - 최우수상
 - 2025 오픈소스프로젝트 경진대회(동국대 SW교육원) - 우수상  
-- 2024 국회 공공데이터 활용 대회(국회) — 우수상  
-- 2023 구름톤 유니브((주)구름) 1기 해커톤 — 대상  
+- 2024 국회 공공데이터 활용 대회(국회) - 우수상  
+- 2023 구름톤 유니브((주)구름) 1기 해커톤 - 대상  
 - 2023 멋쟁이사자처럼 심바톤(동국대 SW교육원) — 대상  
-- 2023 멋쟁이사자처럼 연합해커톤(동국대 SW교육원) — 대상  
+- 2023 멋쟁이사자처럼 연합해커톤(동국대 SW교육원) - 대상  
 
 ---
 
